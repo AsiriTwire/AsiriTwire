@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AsiriTwire
+- 👋 Hi, I’m @Asiri
 - 👀 I’m interested in .net technologies,react,node ,angular
 - 🌱 I’m currently learning react native development
 - 💞️ I’m looking to collaborate on mobile apps with react native
